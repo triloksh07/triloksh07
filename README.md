@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Trilok</h1>
 <h3 align="center">Full-Stack Developer | Passionate about building scalable web apps</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=triloksh07" alt="triloksh07" /></a> </p>
-
 ## 🌟 About Me
 - 👨‍💻 I’m currently working on full-stack development projects.
 - 🌱 I’m currently learning **React**
