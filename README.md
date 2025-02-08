@@ -9,7 +9,7 @@
 ## 📫 Connect with Me
 <p align="left">
 <a href="https://instagram.com/t_r_i_l_o_k_0_7/" target="_blank"><img align="center" src="https://static.cdninstagram.com/rsrc.php/v4/yI/r/VsNE-OHk_8a.png" alt="trilok" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/trilok-bamniya-81570828a/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="trilok" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/trilok-b-81570828a/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="trilok" height="30" width="40" /></a>
 </p>
 
 ## 🛠️ Languages and Tools
