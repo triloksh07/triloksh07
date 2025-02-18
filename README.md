@@ -3,8 +3,6 @@
 
 ## 🌟 About Me
 - 👨‍💻 I’m currently working on full-stack development projects.
-- 🌱 I’m currently learning **React**
-- 💬 Ask me about **JavaScript, Node.js, and Express.js**
 
 ## 📫 Connect with Me
 <p align="left">
