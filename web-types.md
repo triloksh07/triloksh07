@@ -1,5 +1,26 @@
 # Types of Websites and Their Features
 
+## Table of Contents
+1. [Common Features Across All Websites](#common-features-across-all-websites)
+2. [E-Commerce Websites](#e-commerce-websites)
+3. [Business Websites](#business-websites)
+4. [Blog Websites](#blog-websites)
+5. [Educational Websites](#educational-websites)
+6. [Portfolio Websites](#portfolio-websites)
+7. [Entertainment Websites](#entertainment-websites)
+8. [Nonprofit Websites](#nonprofit-websites)
+9. [Wedding Websites](#wedding-websites)
+10. [Podcasting Websites](#podcasting-websites)
+11. [Online Communities & Forums](#online-communities--forums)
+12. [Crowdfunding Websites](#crowdfunding-websites)
+13. [Wiki/Knowledge Websites](#wikiknowledge-websites)
+14. [SaaS (Software as a Service) Websites](#saas-websites)
+15. [Job Board Websites](#job-board-websites)
+16. [Portal Websites](#portal-websites)
+17. [Brochure Websites](#brochure-websites)
+18. [Dropshipping Websites](#dropshipping-websites)
+19. [Features Related to Integrating Payment Gateway](#features-related-to-integrating-payment-gateway)
+
 ## Common Features Across All Websites:
 - **Responsive Design**: Ensures the website works on all devices (desktops, tablets, mobiles).
 - **Navigation**: User-friendly menus, breadcrumbs, and internal linking.
@@ -97,7 +118,7 @@
 - **Discussion Pages**: For content collaboration.
 - **Citations/References**: Source credibility.
 
-## SaaS (Software as a Service) Websites:
+## SaaS Websites:
 - **Product Demos**: Interactive demos or videos.
 - **Pricing Plans**: Detailed descriptions of plans.
 - **User Onboarding**: Tutorials and guides.
