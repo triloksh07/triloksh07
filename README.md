@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer | Passionate about building scalable web apps</h3>
 
 ## 🌟 About Me
-- 👨‍💻 I’m currently working on full-stack development projects.
+- 👨‍💻 I’m currently working on full-stack projects.
 
 ## 📫 Connect with Me
 <p align="left">
